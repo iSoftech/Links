@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="test2">
+		<item value="Upgrade Portlets" key="stepTitles"/>
+	</section>
+	<section name="activeUpgradePlanName">
+		<item value="test3" key="activeUpgradePlanName"/>
+	</section>
+</section>
